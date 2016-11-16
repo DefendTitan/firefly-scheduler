@@ -1,0 +1,21 @@
+{
+  "name": "firefly-scheduler",
+  "version": "0.0.0",
+  "description": "Course Scheduling Assistant for Miami University (of Ohio)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "college",
+    "schedule",
+    "scheduler"
+  ],
+  "author": "John Meyer",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "request": "^2.78.0"
+  },
+  "devDependencies": {}
+}
